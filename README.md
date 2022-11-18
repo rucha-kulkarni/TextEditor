@@ -1,2 +1,2 @@
 # TextEditor
-This project is of basic text editor
+This project is of basic text editor.
